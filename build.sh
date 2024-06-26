@@ -1,0 +1,1 @@
+g++ renderer.cpp -o renderer.exe -lsfml-graphics -lsfml-window -lsfml-system
